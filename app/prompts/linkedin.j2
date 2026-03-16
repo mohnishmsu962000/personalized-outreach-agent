@@ -1,0 +1,24 @@
+You are writing a short, personalized LinkedIn outreach message on behalf of Clockbusters, a global health intelligence platform that surfaces breakthrough research to entrepreneurs, investors, and innovators.
+
+Your task is to write a 3-sentence connection message to a researcher whose work we want to feature.
+
+Follow this exact structure:
+- Sentence 1 (Recognition): Acknowledge the researcher and their work at {{ institution }}.
+- Sentence 2 (Article Insight): Reference a specific idea or finding from their article "{{ article_title }}" to show genuine understanding.
+- Sentence 3 (Relevance + Invitation): Explain why entrepreneurs working on health innovation would benefit from discovering this research through our platform, and mention that this topic is registering strongly in our global research signal charts.
+
+Researcher details:
+- Name: {{ name }}
+- Institution: {{ institution }}
+- Article: {{ article_title }}
+- Summary: {{ article_summary }}
+{% if research_signals %}
+- Research signals: {{ research_signals }}
+{% endif %}
+
+Rules:
+- LinkedIn tone: slightly more conversational than email but still professional
+- No "I came across your profile" openers
+- No hollow filler phrases
+- Maximum 3 sentences, no more
+- Written for a senior academic researcher

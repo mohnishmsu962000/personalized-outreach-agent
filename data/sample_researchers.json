@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Dr. Sarah Chen",
+    "institution": "Stanford University",
+    "article_title": "Metabolic Adaptation in Long-Term Caloric Restriction",
+    "article_summary": "Explores how metabolism adapts during prolonged caloric restriction and its implications for longevity and healthspan",
+    "research_signals": "longevity, metabolic health, caloric restriction",
+    "channel": "email"
+  },
+  {
+    "name": "Dr. James Okafor",
+    "institution": "Harvard Medical School",
+    "article_title": "Cardiovascular Risk Stratification Using Machine Learning",
+    "article_summary": "Proposes a novel ML framework for predicting cardiovascular events using patient biomarkers and lifestyle data",
+    "research_signals": "cardiovascular health, machine learning, risk prediction",
+    "channel": "linkedin"
+  },
+  {
+    "name": "Dr. Priya Nair",
+    "institution": "MIT",
+    "article_title": "Gut Microbiome Diversity and Metabolic Resilience",
+    "article_summary": "Investigates the relationship between gut microbiome composition and metabolic resilience in aging populations",
+    "research_signals": "gut health, microbiome, metabolic resilience, aging",
+    "channel": "email"
+  },
+  {
+    "name": "Dr. Lucas Brennan",
+    "institution": "Johns Hopkins University",
+    "article_title": "Intermittent Fasting Protocols and Cellular Autophagy",
+    "article_summary": "Examines how different intermittent fasting protocols trigger autophagy and their downstream effects on cellular health",
+    "research_signals": "intermittent fasting, autophagy, cellular health, longevity",
+    "channel": "linkedin"
+  },
+  {
+    "name": "Dr. Aiko Tanaka",
+    "institution": "University of Tokyo",
+    "article_title": "Epigenetic Clocks as Biomarkers of Biological Age",
+    "article_summary": "Reviews the current state of epigenetic clock research and their potential as reliable biomarkers for biological aging",
+    "research_signals": "epigenetics, biological age, biomarkers, longevity",
+    "channel": "email"
+  }
+]
